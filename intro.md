@@ -85,18 +85,20 @@ Any submitted timesheet can be read under the following four states;
 	* Rejected
 
 
-[![Time_sheet state](https://www.youtube.com/watch?v=_nm4D98VSqU)](https://www.youtube.com/embed/nm4D98VSqU)
+https://github.com/kakandemanwell/Tutorials/assets/66520084/82ff46f6-d208-42fc-9a6b-712bc5ceb776
 
 
 1. Drafted
-   This is a timesheet state where the worksheet is still under editing and is not yet submitted for any form of review.
-   this is the state in which the timesheet has been saved and submitted for approval but has not yet been approved or reviewed.
+   
+   This is the state in which the timesheet has been saved and submitted for approval but has not yet been approved or reviewed.
 		
 2. Review
+   
    Here, the timesheet was submitted and reviewed for the correctness and validity of the information.
    and awaits approval.
 		
 3. Approved & Rejected
+
    A reviewed timesheet will follow approval or rejection depending on the provided information.
    All rejected timesheets shall need to be reviewed by the reviewers or the appointed personel.
 
